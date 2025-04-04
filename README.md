@@ -7,7 +7,7 @@ Many users experience unwanted redirects to Yahoo Search, even when they use oth
 | Malwarebytes (recommended) | Antivirus | ✅ | ✅ | [Download from official website](https://downloads.malwarebytes.com/file/090357) |
 | AdwCleaner | Adware Remover | ✅ | ✅ | [Visit](https://www.malwarebytes.com/adwcleaner/) |
 | HitmanPro | Second Opinion Scanner | ❌ | ✅ | [Visit](https://www.hitmanpro.com) |
-| **Yahoo Virus Removal Guide** | Step-by-step Manual | ✅ | ✅ | [Read Guide](https://malware.guide/browser-hijacker/remove-yahoo-virus/) |
+| **Yahoo Virus Removal Guide** | Step-by-step Manual | ✅ | ✅ | [Read Guide](#) |
 | Restoro (optional) | System Repair Tool | ❌ | ✅ | [Visit](https://www.restoro.com) |
 
 ---
